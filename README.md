@@ -173,7 +173,7 @@ FDA 510(k)
 
 ⚙ Installation Guide
 1️⃣ Clone Repository
-git clone https://https://github.com/Wareeday/My-Eduqual-Exam
+git clone https://https://https://github.com/Wareeday/real-time-Brain-Computer-Interface-BCI-platform
 cd bci-platform
 
 2️⃣ Create Virtual Environment
@@ -324,3 +324,4 @@ Cloud-native deployment
 📄 License
 
 This project is for academic and research purposes.
+
