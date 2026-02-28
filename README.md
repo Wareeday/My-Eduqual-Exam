@@ -1,11 +1,11 @@
-Brain–Computer Interface (BCI) Platform
+### Brain–Computer Interface (BCI) Platform
 OpenBCI + Signal Processing + Machine Learning for Assistive Technology
 
-Project Overview
+### Project Overview
 
 This project implements a real-time Brain–Computer Interface (BCI) platform designed to support assistive technology applications for individuals with disabilities.
 
-The system:
+### The system:
 
 Acquires EEG signals using OpenBCI hardware
 
@@ -17,7 +17,7 @@ Integrates with assistive devices (wheelchair, prosthetics, speech systems)
 
 Ensures secure and privacy-preserving neural data handling
 
-This platform combines:
+### This platform combines:
 
 Neurotechnology
 
@@ -27,7 +27,8 @@ Artificial intelligence
 
 Human-computer interaction
 
-System Architecture
+### System Architecture
+
 High-Level Pipeline
 Human Brain
     ↓
@@ -51,13 +52,13 @@ Security Layer (Cross-Cutting)
 
 Data Encryption (AES / TLS)
 
-Consent Management
+### Consent Management
 
 Anonymization
 
 GDPR & global neurodata compliance principles
 
-Key Features
+### Key Features
 
 Neural Signal Acquisition:
 
@@ -331,5 +332,6 @@ Cloud-native deployment
 ### License
 
 This project is for academic and research purposes.
+
 
 
